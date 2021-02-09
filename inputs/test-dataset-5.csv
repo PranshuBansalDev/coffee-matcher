@@ -1,6 +1,6 @@
-Email
-amanda@gmail.com
-ben@gmail.com
-charlie@gmail.com
-debbie@gmail.com
-ellie@gmail.com
+email,firstName,lastName
+amanda@gmail.com,Amanda,Apple
+ben@gmail.com,Ben,Banana
+charlie@gmail.com,Charlie,Carrot
+debbie@gmail.com,Debbie,DragonFruit
+ellie@gmail.com,Ellie,Elderberry
