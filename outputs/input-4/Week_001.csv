@@ -1,0 +1,3 @@
+person_a_email,person_a_firstName,person_a_lastName,person_b_email,person_b_firstName,person_b_lastName,emails
+amanda@gmail.com,Amanda,Apple,ben@gmail.com,Ben,Banana,amanda@gmail.com; ben@gmail.com
+charlie@gmail.com,Charlie,Carrot,debbie@gmail.com,Debbie,Dewberries,charlie@gmail.com; debbie@gmail.com
